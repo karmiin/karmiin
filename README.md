@@ -1,11 +1,6 @@
 <h1 align="center">Hey, I'm Karmin 👋</h1>
 <h3 align="center">Master Student | Developer | Cloud Computing Enthusiast</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1s7sM8Bdws4Q7lPLtD/giphy.gif" alt="Welcome GIF" width="400" />
-</p>
-
-
 ---
 
 ### 💻 About Me
