@@ -2,8 +2,9 @@
 <h3 align="center">Master Student | Developer | Cloud Computing Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F9FF&center=true&vCenter=true&width=440&lines=Master+Student+in+Computer+Science+@+UNISA;Cloud+Computing+Track;Curious+mind%2C+always+growing+🚀" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/1s7sM8Bdws4Q7lPLtD/giphy.gif" alt="Welcome GIF" width="400" />
 </p>
+
 
 ---
 
