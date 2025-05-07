@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Karmin 👋</h1>
-<h3 align="center">Master Student | Developer | Cloud Computing Enthusiast</h3>
-
+<h3 align="center">Master Student | Developer
 ---
 
 ### 💻 About Me
