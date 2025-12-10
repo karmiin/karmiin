@@ -11,20 +11,9 @@ I consider myself a lifelong learner with a curiosity for everything tech-relate
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karmiin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmiin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/carmine-tortoriello/)
-
+[LinkedIn](https://www.linkedin.com/in/carmine-tortoriello/) 
 ---
 
 <p align="center">
