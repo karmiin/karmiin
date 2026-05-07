@@ -1,21 +1,14 @@
-<h1 align="center">Hey, I'm Karmin</h1>
-<h3 align="center">Master Student | Developer</h3>
+## Carmine (Karmin)
+
+CS Master's Student @ UNISA.
+Optimizing code to save 0.2 seconds, then wasting 3 hours fixing a .gitignore file.
+
+We ball.
 
 ---
-
-### About Me
-
-I'm currently pursuing a Master's Degree in Computer Science at University of Salerno, specializing in Cloud Computing.  
-I'm passionate about building scalable solutions, backend systems, and exploring cloud-native technologies.  
-I consider myself a lifelong learner with a curiosity for everything tech-related.
-
----
-
-### Contact
-
 [LinkedIn](https://www.linkedin.com/in/carmine-tortoriello/) 
----
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karmiin&style=flat-square&color=lightgrey" alt="Profile views" />
-</p>
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=karmiin&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karmiin&layout=compact&theme=radical&hide_border=true)
