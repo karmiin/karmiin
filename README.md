@@ -4,7 +4,7 @@ Interested in distributed systems, high-performance computing and GPU programmin
 
 Currently improving my C++ skills through data structures, algorithms and performance-oriented programming.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_UR](https://www.linkedin.com/in/carmine-tortoriello/)L)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmine-tortoriello/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Karmin1111-FFA116?logo=leetcode\&logoColor=black)](https://leetcode.com/u/Karmin1111/)
 
 ### Interests
